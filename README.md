@@ -1,1 +1,1 @@
-React-shop portfolio project (https://onexez.github.io/Food/)
+React-shop portfolio project (https://onexez.github.io/react-food)
