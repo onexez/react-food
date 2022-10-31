@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/onexez.github.io/react-food/static/css/main.ade5b5b4.css",
-    "main.js": "/onexez.github.io/react-food/static/js/main.58273d9d.js",
+    "main.js": "/onexez.github.io/react-food/static/js/main.31268657.js",
     "index.html": "/onexez.github.io/react-food/index.html",
     "main.ade5b5b4.css.map": "/onexez.github.io/react-food/static/css/main.ade5b5b4.css.map",
-    "main.58273d9d.js.map": "/onexez.github.io/react-food/static/js/main.58273d9d.js.map"
+    "main.31268657.js.map": "/onexez.github.io/react-food/static/js/main.31268657.js.map"
   },
   "entrypoints": [
     "static/css/main.ade5b5b4.css",
-    "static/js/main.58273d9d.js"
+    "static/js/main.31268657.js"
   ]
 }
