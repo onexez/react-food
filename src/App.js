@@ -14,12 +14,12 @@ function App() {
       <Header />
       <main className="container content">
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="*" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/contacts" element={<Contact />} />
           <Route path="/category/:name" element={<Category />} />
           <Route path="/meal/:id" element={<Recipe />} />
-          <Route path="*" element={<NotFound />} />
+          <Route path="/" element={<NotFound />} />
         </Routes>
       </main>
       <Footer />
